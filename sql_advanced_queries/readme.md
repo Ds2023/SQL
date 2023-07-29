@@ -1,4 +1,4 @@
-# SQL-QUERIES-PROJECT
+## SQL-QUERIES-PROJECT
 
 #### Create a view for each question, the view name is in the brackets and in italics
 ```
